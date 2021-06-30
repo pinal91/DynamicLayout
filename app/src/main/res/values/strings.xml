@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dynamic Layout</string>
+
+    <string-array name="experience">
+        <item>From Time</item>
+        <item>10 AM</item>
+        <item>12 AM</item>
+        <item>02 PM</item>
+        <item>04 OM</item>
+    </string-array>
+
+
+    <string-array name="totime">
+        <item>To Time</item>
+        <item>11 AM</item>
+        <item>01 PM</item>
+        <item>03 PM</item>
+        <item>06 PM</item>
+    </string-array>
+</resources>
